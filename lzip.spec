@@ -1,11 +1,11 @@
 Summary:	LZMA file compressor
 Name:		lzip
-Version:	1.13
+Version:	1.14
 Release:	1
 License:	GPL v3+
 Group:		Applications/Archiving
 Source0:	http://download.savannah.gnu.org/releases/lzip/%{name}-%{version}.tar.gz
-# Source0-md5:	2f401e995c36cca05bd1805aa9c28231
+# Source0-md5:	39a4b06952ee45274525dc0582cdd651
 URL:		http://savannah.nongnu.org/projects/lzip/
 BuildRequires:	libstdc++-devel
 BuildRequires:	texinfo
